@@ -18,4 +18,4 @@
 * `node console.js` should send the console.log over to the app.js terminal
 
 ### UML
-![UML: Lab 19](../assets/lab-19-uml.jpg)
+![UML: Lab 19](./assets/lab-19-uml.jpg)
