@@ -1,17 +1,25 @@
 {
   "name": "socket-io",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "faker": "^4.1.0",
     "socket.io": "^2.2.0",
     "socket.io-client": "^2.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-jonnygraybill/socket-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-jonnygraybill/socket-test/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-jonnygraybill/socket-test#readme",
+  "description": ""
 }
